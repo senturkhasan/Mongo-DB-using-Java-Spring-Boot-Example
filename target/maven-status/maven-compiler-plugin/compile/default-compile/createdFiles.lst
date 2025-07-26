@@ -1,0 +1,7 @@
+com/example/mongosX/User.class
+com/example/mongosX/UserService.class
+com/example/mongosX/MongosXApplication.class
+com/example/mongosX/UserNotFound.class
+com/example/mongosX/UserServiceImpl.class
+com/example/mongosX/UserRepository.class
+com/example/mongosX/UserController.class
