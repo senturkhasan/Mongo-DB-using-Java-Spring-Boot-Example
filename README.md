@@ -10,3 +10,8 @@ curl --location 'http://localhost:8080/api/v1/users' \
   "password": "sifre123",
   "email": "deneme@example.com"
 }'
+
+
+
+Run Command:
+ docker compose up --build
